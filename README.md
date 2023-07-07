@@ -5,7 +5,6 @@ ___
 
 ## Using in the Cloud
 You can interact with the Jupyter notebooks in this repository using the free server, Binder. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/isrsummerschool/lecture_supplements_2023/main)
-
 ___
 
 ## Using Locally
